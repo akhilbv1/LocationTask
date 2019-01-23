@@ -19,7 +19,7 @@
             android:id="@+id/tvLocation"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Hello World!"
+            android:text="Click start to track location"
             android:layout_margin="15dp"
             android:textColor="@android:color/black"
             android:textSize="20sp"
